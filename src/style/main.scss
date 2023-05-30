@@ -1,0 +1,13 @@
+/* Assets */
+@import './assets/mixins';
+@import './assets/variables';
+/* Components */
+@import './components/footer';
+@import './components/navigation';
+
+@font-face {
+   font-family: 'UneFontTéléchargé';
+   src: url('lien/de/la/fonte') format('otf');
+   font-weight: normal;
+   font-style: normal;
+}
